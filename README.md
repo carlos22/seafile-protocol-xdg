@@ -4,4 +4,4 @@ This registers a protocol handler (for the current user) to open seafile:// link
 
 ## What are seafile:// links?
 
-The webinterface offers a feature call "open local". Which generated such links and allows you to open the file (or folder) on your computer if it is synced. The option if found wihtin each file and folder inside of a library. Use the down arrow to see all options of a file.
+The seafile web-interface offers a feature called "open local". Which generates such links and allows you to open the file (or folder) on your computer if it is synced. The option if found wihtin each file and folder inside of a library. Use the down arrow to see all actions of a file.
